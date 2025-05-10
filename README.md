@@ -2,6 +2,7 @@
 
 A simple To-Do List web application built with **Django** and **Bootstrap**. This application allows users to create, update, and delete tasks, providing a basic yet functional interface for task management.
 
+![Screenshot (86)](https://github.com/user-attachments/assets/446eb388-07f2-469e-864d-e6036dd9da47)
 
 
 ## Features
